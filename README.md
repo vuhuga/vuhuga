@@ -7,6 +7,7 @@ Striving to create functional software solutions
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brianvuhuga@gmail.com) 
+[![Portfolio](https://brian-vuhuga-portfolio.onrender.com)
 
 
 # 💻 Tech Stack:
